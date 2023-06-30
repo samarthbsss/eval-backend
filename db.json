@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "username": "elonor",
+      "email": "samarthbsacharya@gmail.com",
+      "password": "hih",
+      "id": 1
+    },
+    {
+      "username": "Sam",
+      "email": "samarthbsacharya@gmail.com",
+      "password": "hih",
+      "id": 2
+    },
+    {
+      "username": "Ram",
+      "email": "ram@gamilc.om",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "username": "sam",
+      "email": "sam@gmail.com",
+      "password": "sam",
+      "id": 4
+    },
+    {
+      "username": "ravi",
+      "email": "ravi@gmail.com",
+      "password": "ravi",
+      "id": 5
+    }
+  ],
+  "data": [
+    {
+      "sam@gmail.com": "",
+      "id": 1
+    },
+    {
+      "user": "sam@gmail.com",
+      "type": "Expense",
+      "category": "Bills",
+      "amount": "1421",
+      "date": "2023-06-20",
+      "id": 2
+    }
+  ]
+}
