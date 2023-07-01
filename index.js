@@ -15,6 +15,7 @@ server.use((req, res, next) => {
 server.use(jsonServer.bodyParser)
 server.use(middlewares)
 server.use(router)
+server
 
 const PORT = 8000
 
